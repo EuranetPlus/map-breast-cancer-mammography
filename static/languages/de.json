@@ -1,10 +1,13 @@
 {
-  "title": "Wie groß ist die Einkommenslücke bei der Mammographie in der EU?",
-  "subtitle": "Im Jahr 2019 gaben Frauen im Alter von 50 bis 69 Jahren aus dem höchsten Einkommensquintil der EU mit 4,9 Prozentpunkten höherer Wahrscheinlichkeit an, dass ihre letzte Mammografie ein bis zwei Jahre zurücklag, als Frauen aus dem niedrigsten Quintil. Bulgarien wies die größte positive Differenz (+21,2 %) auf, während Kroatien die größte negative Differenz (-12,5 %) verzeichnete.",
+  "title": "Welcher Zusammenhang besteht zwischen Einkommen und Mammographie-Screening in der EU?",
+  "subtitle": "Im Jahr 2019 gaben Frauen der höchsten Einkommensgruppe in der EU mit 4,9 Prozentpunkten höherer Wahrscheinlichkeit an, dass ihre letzte Mammografie ein oder zwei Jahre zurücklag, als Frauen der niedrigsten Einkommensgruppe. Bulgarien wies die größte positive Differenz (21,2 %) auf, Kroatien hingegen die größte negative (-12,5 %).",
   "textNoteDescription": "Notiz",
+  "textNote": "Diese Daten beziehen sich auf Frauen im Alter zwischen 50 und 69 Jahren.",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "legend1": "Keine Daten verfügbar",
+  "tooltipExtraInfoLabel": "klicken Sie hier",
   "extraInfo_BE": "-7,6 Prozentpunkte",
   "extraInfo_BG": "+21,2 Prozentpunkte",
   "extraInfo_CZ": "+6,5 Prozentpunkte",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 Prozentpunkte",
   "extraInfo_SK": "+10,7 Prozentpunkte",
   "extraInfo_FI": "-1,0 Prozentpunkte",
-  "extraInfo_SE": "-4,2 Prozentpunkte",
-  "legend1": "Keine Daten verfügbar",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "extraInfo_SE": "-4,2 Prozentpunkte"
 }

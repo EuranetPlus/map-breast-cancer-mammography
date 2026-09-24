@@ -1,10 +1,13 @@
 {
-  "title": "Jak duża jest różnica w dochodach z mammografii w UE?",
-  "subtitle": "W 2019 roku kobiety w wieku 50–69 lat z najwyższego kwintyla dochodów w UE o 4,9 punktu procentowego częściej niż kobiety z najniższego kwintyla deklarowały, że ostatnia mammografia była wykonana 1–2 lata temu. Bułgaria odnotowała największą dodatnią różnicę (+21,2%), podczas gdy Chorwacja wykazała największą różnicę w przeciwnym kierunku (-12,5%).",
+  "title": "Jaki jest związek między dochodami a badaniami mammograficznymi w UE?",
+  "subtitle": "W 2019 roku kobiety z najwyższych grup dochodowych w UE o 4,9 punktu procentowego częściej niż te z najniższych deklarowały, że ich ostatnia mammografia była wykonana rok lub dwa lata temu. Największy dodatni rozrzut odnotowano w Bułgarii (21,2%), a największy ujemny w Chorwacji (-12,5%).",
   "textNoteDescription": "Notatka",
+  "textNote": "Dane dotyczą kobiet w wieku od 50 do 69 lat.",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostęp do danych",
+  "legend1": "Brak dostępnych danych",
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
   "extraInfo_BE": "-7,6 punktów procentowych",
   "extraInfo_BG": "+21,2 punktów procentowych",
   "extraInfo_CZ": "+6,5 punktów procentowych",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 punktów procentowych",
   "extraInfo_SK": "+10,7 punktów procentowych",
   "extraInfo_FI": "-1,0 punktu procentowego",
-  "extraInfo_SE": "-4,2 punktu procentowego",
-  "legend1": "Brak dostępnych danych",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "extraInfo_SE": "-4,2 punktu procentowego"
 }

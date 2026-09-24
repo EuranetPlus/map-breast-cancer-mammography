@@ -1,10 +1,13 @@
 {
-  "title": "Mekkora a jövedelmi különbség a mammográfia terén az EU-ban?",
-  "subtitle": "2019-ben az EU legfelső jövedelmi kvintilisébe tartozó 50–69 éves nők 4,9 százalékponttal nagyobb valószínűséggel számoltak be arról, hogy utolsó mammográfiás vizsgálatuk 1–2 évvel ezelőtt történt, mint a legalsó kvintilisbe tartozók. Bulgáriában volt a legnagyobb pozitív különbség (+21,2%), míg Horvátországban az ellenkező irányú legnagyobb eltérés (-12,5%).",
+  "title": "Mi a kapcsolat a jövedelem és a mammográfiás szűrés között az EU-ban?",
+  "subtitle": "2019-ben az EU legmagasabb jövedelmi kategóriájába tartozó nők 4,9 százalékponttal nagyobb valószínűséggel számoltak be arról, hogy utolsó mammográfiás vizsgálatuk egy vagy két évvel ezelőtt történt, mint a legalacsonyabb jövedelmi kategóriába tartozók. Bulgáriában volt a legnagyobb pozitív különbség (21,2%), míg Horvátországban a legnagyobb negatív különbség (-12,5%).",
   "textNoteDescription": "Jegyzet",
+  "textNote": "Ezek az adatok az 50 és 69 év közötti nőkre vonatkoznak.",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltipExtraInfoLabel": "Kattintson ide",
   "extraInfo_BE": "-7,6 százalékpont",
   "extraInfo_BG": "+21,2 százalékpont",
   "extraInfo_CZ": "+6,5 százalékpont",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 százalékpont",
   "extraInfo_SK": "+10,7 százalékpont",
   "extraInfo_FI": "-1,0 százalékpont",
-  "extraInfo_SE": "-4,2 százalékpont",
-  "legend1": "Nincsenek elérhető adatok",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "extraInfo_SE": "-4,2 százalékpont"
 }

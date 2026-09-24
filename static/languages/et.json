@@ -1,10 +1,13 @@
 {
-  "title": "Kui suur on mammograafiateenuste sissetulekute lõhe ELis?",
-  "subtitle": "2019. aastal teatasid ELi kõrgeimasse sissetulekukvintiili kuuluvad 50–69-aastased naised 4,9 protsendipunkti suurema tõenäosusega, et nende viimane mammogramm tehti 1–2 aastat tagasi, kui madalaimasse sissetulekukvintiili kuuluvad naised. Bulgaarias oli suurim positiivne lõhe (+21,2%), samas kui Horvaatias oli suurim lõhe vastupidises suunas (-12,5%).",
+  "title": "Milline on seos sissetuleku ja mammograafia sõeluuringute vahel ELis?",
+  "subtitle": "2019. aastal teatasid ELi kõrgeima sissetulekuklassi naised 4,9 protsendipunkti suurema tõenäosusega kui madalaima sissetulekuklassi naised, et nende viimane mammograafia tehti üks või kaks aastat tagasi. Bulgaarias oli suurim positiivne lõhe (21,2%) ja Horvaatias suurim negatiivne lõhe (-12,5%).",
   "textNoteDescription": "Märkus",
+  "textNote": "Need andmed hõlmavad 50–69-aastaseid naisi.",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia",
   "extraInfo_BE": "-7,6 protsendipunkti",
   "extraInfo_BG": "+21,2 protsendipunkti",
   "extraInfo_CZ": "+6,5 protsendipunkti",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 protsendipunkti",
   "extraInfo_SK": "+10,7 protsendipunkti",
   "extraInfo_FI": "-1,0 protsendipunkti",
-  "extraInfo_SE": "-4,2 protsendipunkti",
-  "legend1": "Andmed pole saadaval",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "extraInfo_SE": "-4,2 protsendipunkti"
 }

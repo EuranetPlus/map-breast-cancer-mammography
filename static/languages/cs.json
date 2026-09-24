@@ -1,10 +1,13 @@
 {
-  "title": "Jak velký je rozdíl v příjmech v mamografii v rámci EU?",
-  "subtitle": "V roce 2019 ženy ve věku 50–69 let v nejvyšším příjmovém kvintilu EU o 4,9 procentního bodu častěji než ženy v nejnižším kvintilu uváděly, že jejich poslední mamografické vyšetření proběhlo před 1–2 lety. Největší pozitivní rozdíl (+21,2 %) vykázalo Bulharsko, zatímco Chorvatsko vykazovalo největší rozdíl v opačném směru (-12,5 %).",
+  "title": "Jaký je vztah mezi příjmem a mamografickým screeningem v EU?",
+  "subtitle": "V roce 2019 ženy v nejvyšší příjmové skupině EU o 4,9 procentního bodu častěji než ženy v nejnižší příjmové skupině uváděly, že naposledy podstoupily mamografii před jedním nebo dvěma lety. Největší pozitivní rozdíl (21,2 %) vykázalo Bulharsko, zatímco největší negativní rozdíl (-12,5 %) mělo Chorvatsko.",
   "textNoteDescription": "Poznámka",
+  "textNote": "Tato data se týkají žen ve věku 50 až 69 let.",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltipExtraInfoLabel": "Klikněte zde",
   "extraInfo_BE": "-7,6 procentních bodů",
   "extraInfo_BG": "+21,2 procentních bodů",
   "extraInfo_CZ": "+6,5 procentního bodu",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 procentních bodů",
   "extraInfo_SK": "+10,7 procentních bodů",
   "extraInfo_FI": "-1,0 procentního bodu",
-  "extraInfo_SE": "-4,2 procentního bodu",
-  "legend1": "Nejsou k dispozici žádná data",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "extraInfo_SE": "-4,2 procentního bodu"
 }

@@ -1,10 +1,13 @@
 {
-  "title": "Cé chomh mór is atá an bhearna ioncaim i mamagrafaíocht ar fud an AE?",
-  "subtitle": "Sa bhliain 2019, bhí mná idir 50 agus 69 bliain d’aois sa chúigil ioncaim is airde san AE 4.9 pointe céatadáin níos dóchúla ná iad siúd sa chúigil is ísle a thuairisciú gur 1-2 bhliain ó shin a rinneadh a mamagram deireanach. Bhí an bhearna dhearfach ba mhó ag an mBulgáir (+21.2%), agus bhí an bhearna ba mhó sa treo eile ag an gCróit (-12.5%).",
+  "title": "Cad é an gaol idir ioncam agus scagthástáil mamagrafaíochta san AE?",
+  "subtitle": "Sa bhliain 2019, bhí mná sa ghrúpa ioncaim is airde san AE 4.9 pointe céatadáin níos dóchúla ná iad siúd sa ghrúpa ioncaim is ísle a thuairisciú gur bliain nó dhó ó shin a rinneadh a mamagram deireanach. Bhí an bhearna dhearfach ba mhó ag an mBulgáir (21.2%), agus bhí an bhearna dhiúltach ba mhó ag an gCróit (-12.5%).",
   "textNoteDescription": "Nóta",
+  "textNote": "Baineann na sonraí seo le mná idir 50 agus 69 bliain d'aois.",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "legend1": "Níl aon sonraí ar fáil",
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
   "extraInfo_BE": "-7.6 pointe céatadáin",
   "extraInfo_BG": "+21.2 pointe céatadáin",
   "extraInfo_CZ": "+6.5 pointe céatadáin",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5.0 pointe céatadáin",
   "extraInfo_SK": "+10.7 pointe céatadáin",
   "extraInfo_FI": "-1.0 pointe céatadáin",
-  "extraInfo_SE": "-4.2 pointe céatadáin",
-  "legend1": "Níl aon sonraí ar fáil",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "extraInfo_SE": "-4.2 pointe céatadáin"
 }

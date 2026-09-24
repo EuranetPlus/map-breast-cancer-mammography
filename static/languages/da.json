@@ -1,10 +1,13 @@
 {
-  "title": "Hvor stor er indkomstforskellen inden for mammografi i EU?",
-  "subtitle": "I 2019 var kvinder i alderen 50-69 år i EU's højeste indkomstkvintil 4,9 procentpoint mere tilbøjelige end kvinder i den laveste kvintil til at rapportere, at deres sidste mammografi var for 1-2 år siden. Bulgarien havde den største positive forskel (+21,2 %), mens Kroatien viste den største forskel i den modsatte retning (-12,5 %).",
+  "title": "Hvad er forholdet mellem indkomst og mammografiscreening i EU?",
+  "subtitle": "I 2019 var kvinder i EU's højeste indkomstgruppe 4,9 procentpoint mere tilbøjelige end kvinder i den laveste til at rapportere, at deres sidste mammografi var for et eller to år siden. Bulgarien havde den største positive forskel (21,2 %), mens Kroatien havde den største negative forskel (-12,5 %).",
   "textNoteDescription": "Note",
+  "textNote": "Disse data omfatter kvinder i alderen 50 til 69 år.",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "tooltipExtraInfoLabel": "Klik her",
   "extraInfo_BE": "-7,6 procentpoint",
   "extraInfo_BG": "+21,2 procentpoint",
   "extraInfo_CZ": "+6,5 procentpoint",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 procentpoint",
   "extraInfo_SK": "+10,7 procentpoint",
   "extraInfo_FI": "-1,0 procentpoint",
-  "extraInfo_SE": "-4,2 procentpoint",
-  "legend1": "Ingen data tilgængelige",
-  "tooltipExtraInfoLabel": "Klik her"
+  "extraInfo_SE": "-4,2 procentpoint"
 }

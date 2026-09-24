@@ -1,10 +1,13 @@
 {
-  "title": "Qual é a dimensão da disparidade de rendimento no acesso à mamografia em toda a UE?",
-  "subtitle": "Em 2019, mulheres entre 50 e 69 anos no quintil de renda mais alto da UE tinham 4,9 pontos percentuais a mais de probabilidade de relatar que sua última mamografia havia sido feita entre 1 e 2 anos antes, em comparação com aquelas no quintil mais baixo. A Bulgária apresentou a maior diferença positiva (+21,2%), enquanto a Croácia mostrou a maior diferença na direção oposta (-12,5%).",
+  "title": "Qual a relação entre renda e exames de mamografia na UE?",
+  "subtitle": "Em 2019, as mulheres na faixa de renda mais alta da UE tinham 4,9 pontos percentuais a mais de probabilidade do que as da faixa mais baixa de relatar que sua última mamografia havia sido feita um ou dois anos antes. A Bulgária apresentou a maior diferença positiva (21,2%), enquanto a Croácia apresentou a maior diferença negativa (-12,5%).",
   "textNoteDescription": "Observação",
+  "textNote": "Esses dados referem-se a mulheres com idades entre 50 e 69 anos.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
+  "legend1": "Não há dados disponíveis.",
+  "tooltipExtraInfoLabel": "Clique aqui",
   "extraInfo_BE": "-7,6 pontos percentuais",
   "extraInfo_BG": "+21,2 pontos percentuais",
   "extraInfo_CZ": "+6,5 pontos percentuais",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 pontos percentuais",
   "extraInfo_SK": "+10,7 pontos percentuais",
   "extraInfo_FI": "-1,0 ponto percentual",
-  "extraInfo_SE": "-4,2 pontos percentuais",
-  "legend1": "Não há dados disponíveis.",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "extraInfo_SE": "-4,2 pontos percentuais"
 }

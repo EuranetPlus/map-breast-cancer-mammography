@@ -1,10 +1,13 @@
 {
-  "title": "Cât de mare este decalajul de venit în mamografie în UE?",
-  "subtitle": "În 2019, femeile cu vârste cuprinse între 50 și 69 de ani din cvintila cu cel mai ridicat venit din UE au fost cu 4,9 puncte procentuale mai predispuse decât cele din cvintila cea mai scăzută să raporteze că ultima lor mamografie a fost efectuată în urmă cu 1-2 ani. Bulgaria a avut cel mai mare decalaj pozitiv (+21,2%), în timp ce Croația a prezentat cel mai mare decalaj în direcția opusă (-12,5%).",
+  "title": "Care este relația dintre venit și screeningul mamografic în UE?",
+  "subtitle": "În 2019, femeile din categoria de venit cea mai mare din UE au avut cu 4,9 puncte procentuale mai multe șanse decât cele din categoria de venit cea mai mică să declare că ultima lor mamografie a fost acum unul sau doi ani. Bulgaria a avut cel mai mare decalaj pozitiv (21,2%), în timp ce Croația a avut cel mai mare decalaj negativ (-12,5%).",
   "textNoteDescription": "Nota",
+  "textNote": "Aceste date sunt despre femei cu vârste cuprinse între 50 și 69 de ani.",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
+  "legend1": "Nu sunt disponibile date",
+  "tooltipExtraInfoLabel": "Click aici",
   "extraInfo_BE": "-7,6 puncte procentuale",
   "extraInfo_BG": "+21,2 puncte procentuale",
   "extraInfo_CZ": "+6,5 puncte procentuale",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 puncte procentuale",
   "extraInfo_SK": "+10,7 puncte procentuale",
   "extraInfo_FI": "-1,0 puncte procentuale",
-  "extraInfo_SE": "-4,2 puncte procentuale",
-  "legend1": "Nu sunt disponibile date",
-  "tooltipExtraInfoLabel": "Click aici"
+  "extraInfo_SE": "-4,2 puncte procentuale"
 }

@@ -1,10 +1,13 @@
 {
-  "title": "Cik liela ir ienākumu atšķirība mamogrāfijas jomā visā ES?",
-  "subtitle": "2019. gadā sievietes vecumā no 50 līdz 69 gadiem ES augstākajā ienākumu kvintilē par 4,9 procentpunktiem biežāk nekā sievietes zemākajā kvintilē ziņoja, ka viņu pēdējā mammogrāfija veikta pirms 1–2 gadiem. Bulgārijā bija lielākā pozitīvā atšķirība (+21,2 %), savukārt Horvātijā bija lielākā atšķirība pretējā virzienā (-12,5 %).",
+  "title": "Kāda ir saistība starp ienākumiem un mamogrāfijas skrīningu ES?",
+  "subtitle": "2019. gadā sievietes ES augstākajās ienākumu grupās par 4,9 procentpunktiem biežāk nekā sievietes zemākajās ziņoja, ka pēdējā mammogrāfija veikta pirms viena vai diviem gadiem. Bulgārijā bija lielākā pozitīvā starpība (21,2 %), savukārt Horvātijā bija lielākā negatīvā starpība (-12,5 %).",
   "textNoteDescription": "Piezīme",
+  "textNote": "Šie dati attiecas uz sievietēm vecumā no 50 līdz 69 gadiem.",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
+  "legend1": "Dati nav pieejami",
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
   "extraInfo_BE": "-7,6 procentpunkti",
   "extraInfo_BG": "+21,2 procentpunkti",
   "extraInfo_CZ": "+6,5 procentpunkti",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 procentpunkti",
   "extraInfo_SK": "+10,7 procentpunkti",
   "extraInfo_FI": "-1,0 procentpunkti",
-  "extraInfo_SE": "-4,2 procentpunkti",
-  "legend1": "Dati nav pieejami",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "extraInfo_SE": "-4,2 procentpunkti"
 }

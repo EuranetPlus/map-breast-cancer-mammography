@@ -1,10 +1,13 @@
 {
-  "title": "Kuinka suuri tuloero on mammografiassa EU:ssa?",
-  "subtitle": "Vuonna 2019 EU:n ylimpään tuloviidennekseen kuuluvat 50–69-vuotiaat naiset ilmoittivat 4,9 prosenttiyksikköä todennäköisemmin kuin alimpaan viidennekseen kuuluvat naiset, että heidän viimeisin mammografiansa oli tehty 1–2 vuotta sitten. Bulgariassa oli suurin positiivinen ero (+21,2 %), kun taas Kroatiassa oli suurin ero vastakkaiseen suuntaan (-12,5 %).",
+  "title": "Mikä on tulojen ja mammografiaseulonnan välinen suhde EU:ssa?",
+  "subtitle": "Vuonna 2019 EU:n ylimmän tuloluokan naiset ilmoittivat 4,9 prosenttiyksikköä todennäköisemmin kuin alimman tuloluokan naiset, että heidän viimeisin mammografiansa oli tehty yksi tai kaksi vuotta sitten. Bulgariassa oli suurin positiivinen ero (21,2 %), kun taas Kroatiassa oli suurin negatiivinen ero (-12,5 %).",
   "textNoteDescription": "Huomautus",
+  "textNote": "Nämä tiedot koskevat 50–69-vuotiaita naisia.",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
   "extraInfo_BE": "-7,6 prosenttiyksikköä",
   "extraInfo_BG": "+21,2 prosenttiyksikköä",
   "extraInfo_CZ": "+6,5 prosenttiyksikköä",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 prosenttiyksikköä",
   "extraInfo_SK": "+10,7 prosenttiyksikköä",
   "extraInfo_FI": "-1,0 prosenttiyksikköä",
-  "extraInfo_SE": "-4,2 prosenttiyksikköä",
-  "legend1": "Ei tietoja saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "extraInfo_SE": "-4,2 prosenttiyksikköä"
 }

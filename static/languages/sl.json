@@ -1,10 +1,13 @@
 {
-  "title": "Kako velika je razlika v dohodkih v mamografiji v EU?",
-  "subtitle": "Leta 2019 so ženske, stare od 50 do 69 let, v najvišjem dohodkovnem kvintilu EU za 4,9 odstotne točke pogosteje poročale, da so bile nazadnje pregledane z mamografijo pred 1–2 letoma, kot ženske v najnižjem kvintilu. Največjo pozitivno razliko (+21,2 %) je imela Bolgarija, največjo razliko v nasprotni smeri (-12,5 %) pa Hrvaška.",
+  "title": "Kakšna je povezava med dohodkom in mamografskim pregledom v EU?",
+  "subtitle": "Leta 2019 so ženske v najvišjem dohodkovnem razredu EU za 4,9 odstotne točke pogosteje kot ženske v najnižjem dohodkovnem razredu poročale, da so nazadnje opravile mamografijo pred enim ali dvema letoma. Največjo pozitivno razliko (21,2 %) je imela Bolgarija, največjo negativno razliko (-12,5 %).",
   "textNoteDescription": "Opomba",
+  "textNote": "Ti podatki so za ženske, stare med 50 in 69 let.",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
   "extraInfo_BE": "-7,6 odstotne točke",
   "extraInfo_BG": "+21,2 odstotne točke",
   "extraInfo_CZ": "+6,5 odstotne točke",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 odstotnih točk",
   "extraInfo_SK": "+10,7 odstotne točke",
   "extraInfo_FI": "-1,0 odstotne točke",
-  "extraInfo_SE": "-4,2 odstotne točke",
-  "legend1": "Ni na voljo podatkov",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "extraInfo_SE": "-4,2 odstotne točke"
 }

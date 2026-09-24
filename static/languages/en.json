@@ -1,10 +1,13 @@
 {
-  "title": "How large is the income gap in mammography across the EU?",
-  "subtitle": "In 2019, women aged 50–69 in the EU's highest income quintile were 4.9 percentage points more likely than those in the lowest quintile to report that their last mammogram was 1–2 years ago. Bulgaria had the largest positive gap (+21.2%), while Croatia showed the largest gap in the opposite direction (-12.5%).",
+  "title": "What is the relationship between income and mammography screening in the EU? ",
+  "subtitle": "In 2019, women in the EU's highest income bracket were 4.9 percentage points more likely than those in the lowest to report that their last mammogram was one or two years ago.  Bulgaria had the largest positive gap (21.2%), while Croatia had the largest negative gap (-12.5%).",
   "textNoteDescription": "Note",
+  "textNote": "This data women aged between 50 and 69.",
   "textSourceDescription": "Source",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
+  "legend1": "No data available",
+  "tooltipExtraInfoLabel": "Click here",
   "extraInfo_BE": "-7.6 percentage points",
   "extraInfo_BG": "+21.2 percentage points",
   "extraInfo_CZ": "+6.5 percentage points",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5.0 percentage points",
   "extraInfo_SK": "+10.7 percentage points",
   "extraInfo_FI": "-1.0 percentage points",
-  "extraInfo_SE": "-4.2 percentage points",
-  "legend1": "No data available",
-  "tooltipExtraInfoLabel": "Click here"
+  "extraInfo_SE": "-4.2 percentage points"
 }

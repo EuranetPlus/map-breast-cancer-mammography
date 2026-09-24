@@ -1,10 +1,13 @@
 {
-  "title": "Koliki je jaz u prihodima u mamografiji diljem EU?",
-  "subtitle": "U 2019. godini, žene u dobi od 50 do 69 godina u najvišem kvintilu dohotka u EU imale su 4,9 postotnih bodova veću vjerojatnost od onih u najnižem kvintilu da prijave da im je posljednja mamogram bila prije 1-2 godine. Bugarska je imala najveću pozitivnu razliku (+21,2%), dok je Hrvatska pokazala najveću razliku u suprotnom smjeru (-12,5%).",
+  "title": "Kakav je odnos između prihoda i mamografskog pregleda u EU?",
+  "subtitle": "U 2019. godini, žene u najvišoj dohodovnoj skupini EU-a imale su 4,9 postotnih bodova veću vjerojatnost od onih u najnižoj da prijave da su posljednji mamograf obavile prije godinu ili dvije. Bugarska je imala najveću pozitivnu razliku (21,2%), dok je Hrvatska imala najveću negativnu razliku (-12,5%).",
   "textNoteDescription": "Bilješka",
+  "textNote": "Ovi podaci se odnose na žene u dobi između 50 i 69 godina.",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat (2026.)",
   "linkDataAccessDescription": "Pristup podacima",
+  "legend1": "Nema dostupnih podataka",
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
   "extraInfo_BE": "-7,6 postotnih bodova",
   "extraInfo_BG": "+21,2 postotna boda",
   "extraInfo_CZ": "+6,5 postotnih bodova",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 postotnih bodova",
   "extraInfo_SK": "+10,7 postotnih bodova",
   "extraInfo_FI": "-1,0 postotnih bodova",
-  "extraInfo_SE": "-4,2 postotna boda",
-  "legend1": "Nema dostupnih podataka",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "extraInfo_SE": "-4,2 postotna boda"
 }

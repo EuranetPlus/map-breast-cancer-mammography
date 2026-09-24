@@ -1,10 +1,13 @@
 {
-  "title": "Quelle est l'ampleur des inégalités de revenus en matière de mammographie dans l'UE ?",
-  "subtitle": "En 2019, les femmes âgées de 50 à 69 ans appartenant au quintile de revenus le plus élevé de l'UE étaient 4,9 points de pourcentage plus susceptibles que celles du quintile le plus bas de déclarer que leur dernière mammographie remontait à un ou deux ans. La Bulgarie affichait l'écart positif le plus important (+21,2 %), tandis que la Croatie présentait l'écart négatif le plus marqué (-12,5 %).",
+  "title": "Quel est le lien entre le revenu et le dépistage du cancer du sein par mammographie dans l'UE ?",
+  "subtitle": "En 2019, les femmes appartenant à la tranche de revenus la plus élevée de l'UE étaient 4,9 points de pourcentage plus susceptibles que celles de la tranche la plus basse de déclarer que leur dernière mammographie remontait à un ou deux ans. La Bulgarie affichait l'écart positif le plus important (21,2 %), tandis que la Croatie présentait l'écart négatif le plus important (-12,5 %).",
   "textNoteDescription": "Note",
+  "textNote": "Ces données concernent des femmes âgées de 50 à 69 ans.",
   "textSourceDescription": "Source",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
+  "legend1": "Aucune donnée disponible",
+  "tooltipExtraInfoLabel": "Cliquez ici",
   "extraInfo_BE": "-7,6 points de pourcentage",
   "extraInfo_BG": "+21,2 points de pourcentage",
   "extraInfo_CZ": "+6,5 points de pourcentage",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 points de pourcentage",
   "extraInfo_SK": "+10,7 points de pourcentage",
   "extraInfo_FI": "-1,0 point de pourcentage",
-  "extraInfo_SE": "-4,2 points de pourcentage",
-  "legend1": "Aucune donnée disponible",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "extraInfo_SE": "-4,2 points de pourcentage"
 }

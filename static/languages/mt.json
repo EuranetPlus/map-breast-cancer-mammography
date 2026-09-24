@@ -1,10 +1,13 @@
 {
-  "title": "Kemm hi kbira d-differenza fid-dħul fil-mammografija madwar l-UE?",
-  "subtitle": "Fl-2019, in-nisa ta’ bejn il-50 u d-69 sena fl-ogħla quintile ta’ dħul tal-UE kellhom 4.9 punti perċentwali aktar probabbiltà minn dawk fl-aktar quintile baxx li jirrappurtaw li l-aħħar mammogramma tagħhom kienet sena jew sentejn ilu. Il-Bulgarija kellha l-akbar differenza pożittiva (+21.2%), filwaqt li l-Kroazja wriet l-akbar differenza fid-direzzjoni opposta (-12.5%).",
+  "title": "X'inhi r-relazzjoni bejn id-dħul u l-iskrinjar tal-mammografija fl-UE?",
+  "subtitle": "Fl-2019, in-nisa fl-ogħla kategorija ta’ dħul tal-UE kellhom 4.9 punti perċentwali aktar probabbiltà minn dawk fl-aktar baxxa li jirrappurtaw li l-aħħar mammogramma tagħhom kienet sena jew sentejn ilu. Il-Bulgarija kellha l-akbar differenza pożittiva (21.2%), filwaqt li l-Kroazja kellha l-akbar differenza negattiva (-12.5%).",
   "textNoteDescription": "Nota",
+  "textNote": "Din id-dejta tikkonċerna nisa ta’ bejn il-50 u d-69 sena.",
   "textSourceDescription": "Sors",
   "textSource": "L-Eurostat (2026)",
   "linkDataAccessDescription": "Aċċessa d-dejta",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
   "extraInfo_BE": "-7.6 punti perċentwali",
   "extraInfo_BG": "+21.2 punti perċentwali",
   "extraInfo_CZ": "+6.5 punti perċentwali",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5.0 punti perċentwali",
   "extraInfo_SK": "+10.7 punti perċentwali",
   "extraInfo_FI": "-1.0 punt perċentwali",
-  "extraInfo_SE": "-4.2 punti perċentwali",
-  "legend1": "L-ebda dejta disponibbli",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "extraInfo_SE": "-4.2 punti perċentwali"
 }

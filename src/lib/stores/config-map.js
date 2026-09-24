@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
-  "title": "How large is the income gap in mammography across the EU?",
-  "subtitle": "In 2019, women aged 50–69 in the EU's highest income quintile were 4.9 percentage points more likely than those in the lowest quintile to report that their last mammogram was 1–2 years ago. Bulgaria had the largest positive gap (+21.2%), while Croatia showed the largest gap in the opposite direction (-12.5%).",
+  "title": "What is the relationship between income and mammography screening in the EU? ",
+  "subtitle": "In 2019, women in the EU's highest income bracket were 4.9 percentage points more likely than those in the lowest to report that their last mammogram was one or two years ago.  Bulgaria had the largest positive gap (21.2%), while Croatia had the largest negative gap (-12.5%).",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nBelgium,BE,-0.076,false,-7.6 percentage points,,,,,,,,\nBulgaria,BG,0.212,false,+21.2 percentage points,,,,,,,,\nCzechia,CZ,0.065,false,+6.5 percentage points,,,,,,,,\nDenmark,DK,-0.016,false,-1.6 percentage points,,,,,,,,\nGermany,DE,0.076,false,+7.6 percentage points,,,,,,,,\nEstonia,EE,0.059,false,+5.9 percentage points,,,,,,,,\nIreland,IE,-0.085,false,-8.5 percentage points,,,,,,,,\nGreece,EL,-0.017,false,-1.7 percentage points,,,,,,,,\nSpain,ES,-0.023,false,-2.3 percentage points,,,,,,,,\nFrance,FR,0.027,false,+2.7 percentage points,,,,,,,,\nCroatia,HR,-0.125,false,-12.5 percentage points,,,,,,,,\nItaly,IT,0.053,false,+5.3 percentage points,,,,,,,,\nCyprus,CY,0.117,false,+11.7 percentage points,,,,,,,,\nLatvia,LV,0.008,false,+0.8 percentage points,,,,,,,,\nLithuania,LT,0.092,false,+9.2 percentage points,,,,,,,,\nLuxembourg,LU,-0.018,false,-1.8 percentage points,,,,,,,,\nHungary,HU,0.019,false,+1.9 percentage points,,,,,,,,\nMalta,MT,0.001,false,+0.1 percentage points,,,,,,,,\nNetherlands,NL,-0.008,false,-0.8 percentage points,,,,,,,,\nAustria,AT,0.045,false,+4.5 percentage points,,,,,,,,\nPoland,PL,0.069,false,+6.9 percentage points,,,,,,,,\nPortugal,PT,-0.047,false,-4.7 percentage points,,,,,,,,\nRomania,RO,0.116,false,+11.6 percentage points,,,,,,,,\nSlovenia,SI,0.050,false,+5.0 percentage points,,,,,,,,\nSlovakia,SK,0.107,false,+10.7 percentage points,,,,,,,,\nFinland,FI,-0.010,false,-1.0 percentage points,,,,,,,,\nSweden,SE,-0.042,false,-4.2 percentage points,,,,,,,,",
   "parsedData": [
@@ -428,7 +429,7 @@ export const mapConfig = writable({
   "textSource": "Eurostat (2026)",
   "textNoteAvailable": true,
   "textNoteDescription": "Note",
-  "textNote": "",
+  "textNote": "This data women aged between 50 and 69.",
   "textDataAccessAvailable": true,
   "linkDataAccessDescription": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_pa7i__custom_22856122/default/table",
@@ -438,10 +439,10 @@ export const mapConfig = writable({
   "customUnitLabel": "",
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
-    "title": "How large is the income gap in mammography across the EU?",
-    "subtitle": "In 2019, women aged 50–69 in the EU's highest income quintile were 4.9 percentage points more likely than those in the lowest quintile to report that their last mammogram was 1–2 years ago. Bulgaria had the largest positive gap (+21.2%), while Croatia showed the largest gap in the opposite direction (-12.5%).",
+    "title": "What is the relationship between income and mammography screening in the EU? ",
+    "subtitle": "In 2019, women in the EU's highest income bracket were 4.9 percentage points more likely than those in the lowest to report that their last mammogram was one or two years ago.  Bulgaria had the largest positive gap (21.2%), while Croatia had the largest negative gap (-12.5%).",
     "textNoteDescription": "Note",
-    "textNote": "",
+    "textNote": "This data women aged between 50 and 69.",
     "textSourceDescription": "Source",
     "textSource": "Eurostat (2026)",
     "linkDataAccessDescription": "Access the data",

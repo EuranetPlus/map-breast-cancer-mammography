@@ -1,10 +1,13 @@
 {
-  "title": "Quanto è ampio il divario di reddito nell'accesso alla mammografia nei paesi dell'UE?",
-  "subtitle": "Nel 2019, le donne di età compresa tra 50 e 69 anni appartenenti al quintile di reddito più elevato dell'UE avevano una probabilità maggiore del 4,9% rispetto a quelle appartenenti al quintile più basso di dichiarare di essersi sottoposte all'ultima mammografia 1-2 anni prima. La Bulgaria ha registrato il divario positivo maggiore (+21,2%), mentre la Croazia ha mostrato il divario maggiore nella direzione opposta (-12,5%).",
+  "title": "Qual è la relazione tra reddito e screening mammografico nell'UE?",
+  "subtitle": "Nel 2019, le donne appartenenti alla fascia di reddito più alta nell'UE avevano una probabilità maggiore del 4,9% rispetto a quelle appartenenti alla fascia di reddito più bassa di dichiarare di essersi sottoposte all'ultima mammografia uno o due anni prima. La Bulgaria ha registrato il divario positivo maggiore (21,2%), mentre la Croazia ha registrato il divario negativo maggiore (-12,5%).",
   "textNoteDescription": "Nota",
+  "textNote": "Questi dati si riferiscono a donne di età compresa tra i 50 e i 69 anni.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accedere ai dati",
+  "legend1": "Nessun dato disponibile",
+  "tooltipExtraInfoLabel": "clicca qui",
   "extraInfo_BE": "-7,6 punti percentuali",
   "extraInfo_BG": "+21,2 punti percentuali",
   "extraInfo_CZ": "+6,5 punti percentuali",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 punti percentuali",
   "extraInfo_SK": "+10,7 punti percentuali",
   "extraInfo_FI": "-1,0 punti percentuali",
-  "extraInfo_SE": "-4,2 punti percentuali",
-  "legend1": "Nessun dato disponibile",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "extraInfo_SE": "-4,2 punti percentuali"
 }

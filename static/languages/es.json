@@ -1,10 +1,13 @@
 {
-  "title": "¿Qué tan grande es la brecha de ingresos en el acceso a la mamografía en la UE?",
-  "subtitle": "En 2019, las mujeres de entre 50 y 69 años pertenecientes al quintil de ingresos más alto de la UE tenían 4,9 puntos porcentuales más de probabilidades que las del quintil más bajo de declarar que su última mamografía se había realizado entre 1 y 2 años antes. Bulgaria presentó la mayor diferencia positiva (+21,2 %), mientras que Croacia mostró la mayor diferencia en sentido contrario (-12,5 %).",
+  "title": "¿Cuál es la relación entre los ingresos y las mamografías de cribado en la UE?",
+  "subtitle": "En 2019, las mujeres del grupo de mayores ingresos de la UE tenían un 4,9% más de probabilidades que las del grupo de menores ingresos de declarar que su última mamografía se había realizado hacía uno o dos años. Bulgaria presentó la mayor diferencia positiva (21,2%), mientras que Croacia presentó la mayor diferencia negativa (-12,5%).",
   "textNoteDescription": "Nota",
+  "textNote": "Estos datos corresponden a mujeres de entre 50 y 69 años.",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
+  "legend1": "No hay datos disponibles",
+  "tooltipExtraInfoLabel": "haga clic aquí",
   "extraInfo_BE": "-7,6 puntos porcentuales",
   "extraInfo_BG": "+21,2 puntos porcentuales",
   "extraInfo_CZ": "+6,5 puntos porcentuales",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 puntos porcentuales",
   "extraInfo_SK": "+10,7 puntos porcentuales",
   "extraInfo_FI": "-1,0 puntos porcentuales",
-  "extraInfo_SE": "-4,2 puntos porcentuales",
-  "legend1": "No hay datos disponibles",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "extraInfo_SE": "-4,2 puntos porcentuales"
 }

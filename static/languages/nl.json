@@ -1,10 +1,13 @@
 {
-  "title": "Hoe groot is de inkomensongelijkheid bij mammografie in de EU?",
-  "subtitle": "In 2019 gaven vrouwen van 50-69 jaar in het hoogste inkomenskwintiel van de EU 4,9 procentpunten vaker aan dat hun laatste mammografie 1-2 jaar geleden was dan vrouwen in het laagste kwintiel. Bulgarije liet het grootste positieve verschil zien (+21,2%), terwijl Kroatië het grootste verschil in de tegenovergestelde richting vertoonde (-12,5%).",
+  "title": "Wat is het verband tussen inkomen en mammografiescreening in de EU?",
+  "subtitle": "In 2019 gaven vrouwen in de hoogste inkomenscategorie van de EU 4,9 procentpunten vaker aan dat hun laatste mammografie één of twee jaar geleden was dan vrouwen in de laagste inkomenscategorie. Bulgarije kende het grootste positieve verschil (21,2%), terwijl Kroatië het grootste negatieve verschil had (-12,5%).",
   "textNoteDescription": "Opmerking",
+  "textNote": "Deze gegevens betreffen vrouwen in de leeftijd van 50 tot 69 jaar.",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
+  "legend1": "Geen gegevens beschikbaar",
+  "tooltipExtraInfoLabel": "Klik hier",
   "extraInfo_BE": "-7,6 procentpunten",
   "extraInfo_BG": "+21,2 procentpunten",
   "extraInfo_CZ": "+6,5 procentpunten",
@@ -31,7 +34,5 @@
   "extraInfo_SI": "+5,0 procentpunten",
   "extraInfo_SK": "+10,7 procentpunten",
   "extraInfo_FI": "-1,0 procentpunt",
-  "extraInfo_SE": "-4,2 procentpunten",
-  "legend1": "Geen gegevens beschikbaar",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "extraInfo_SE": "-4,2 procentpunten"
 }
